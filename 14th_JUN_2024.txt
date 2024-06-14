@@ -1,0 +1,3 @@
+What is a virtual machine?
+What is a hypervisor?
+A hypervisor is software that creates and runs virtual machines (VMs). A hypervisor, sometimes called a virtual machine monitor (VMM), isolates the hypervisor operating system and resources from the virtual machines and enables the creation and management of those VMs.
